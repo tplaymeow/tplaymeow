@@ -21,7 +21,6 @@
 
 
 ### 📈 Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tplaymeow&label=Views&color=009dff&style=flat" alt="tplaymeow" /> </p>
 
 <details>
   <summary>Click to expand!</summary>
