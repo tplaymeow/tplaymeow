@@ -5,14 +5,12 @@
 <a href="mailto:wersa2002@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/email.png" alt="wersa2002@gmail.com" height="30" width="30" /></a>
 
 
-</br>
 
 
 ### 🤔 About me:
   * I'm 19 years old
   * Study at ITMO University
 
-</br>
 
 ### 💻 Languages and Tools:
 <p align="left">
