@@ -13,12 +13,9 @@
 
 
 ### 💻 Languages and Tools:
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="35" height="35"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a> 
-</p>
-
+* `.swift`
+* `.java`
+* `.py`
 
 ### 📈 Stats:
 
