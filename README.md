@@ -12,7 +12,7 @@
 ### 💻 Languages and Tools:
 * `.swift`
 * `.java`
-* `.py`
+* `.cpp`
 
 ### 📈 Stats:
 
